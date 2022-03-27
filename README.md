@@ -3,9 +3,9 @@ A fully Responsive Website for a Internet Cafe/MP Online built with HTML, CSS, J
 
 Credits:
 
-Fonts:
-	Google Fonts (fonts.google.com)
+	Fonts:
+		Google Fonts (fonts.google.com)
 
-Icons:
-	Font Awesome (fontawesome.io)
-	Material Icons (material.io)
+	Icons:
+		Font Awesome (fontawesome.io)
+		Material Icons (material.io)
