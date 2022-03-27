@@ -834,3 +834,20 @@ main img {
     overflow-x: hidden;
   }
 }
+@media screen and (min-width: 1200px){
+  main{
+    background: url(saikripaimg.jpg), url(paytm.jpg);
+    background-repeat: no-repeat;
+    background-position: left, right;
+  }
+}
+@media screen and (max-width: 1600px){
+  main{
+    background-size: 430px 365px;
+  }
+}
+@media screen and (min-width: 1300px) {
+  .mpOnline{
+    display: block;
+  } 
+}
