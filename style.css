@@ -679,7 +679,8 @@ main img {
   width: 30%;
 }
 .bank section img {
-  width: 70%;
+      width: 91%;
+    border: 2px solid black;
 }
 .bank section + section img {
   width: 100%;
