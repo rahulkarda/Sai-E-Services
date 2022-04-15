@@ -734,6 +734,9 @@ main img {
   main{
     background-size: 430px 365px;
   }
+  .mpOnline{
+    display: none;
+  }
 }
 @media all and (max-width: 500px) {
   main {
@@ -833,7 +836,7 @@ main img {
   html {
     overflow-x: hidden;
   }
-}@media screen and (min-width: 1200px){
+}@media screen and (min-width: 1620px){
   main{
     background: url(saikripaimg.jpg), url(paytm.jpg);
     background-repeat: no-repeat;
